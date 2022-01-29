@@ -1,0 +1,109 @@
+* { 
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+    text-decoration: none;
+    background-color: #FFFFFF;
+ }
+
+ h1 {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 41px;
+    letter-spacing: 0.41px;
+    margin-top: 128px;
+    margin-left: 16px;
+ }
+
+ p {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 26px;
+    letter-spacing: 0.41px;
+    color: #808080;
+    margin-top: 12px;
+    margin-left: 16px;
+    margin-right: 16px;
+ }
+
+ input {
+    background-color: #F2F2F7;
+    border-radius: 6px;
+    width: 343px;
+    height: 48px;
+    display: block;
+    border: none;
+    margin-left: 16px;
+    margin-right: 16px;
+
+ }
+
+ input::placeholder {
+    color: #929292;
+    padding-left: 14px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 22px;
+    letter-spacing: -0.41px;
+ }
+
+ .email {
+     margin-top: 102px;
+ }
+ .password {
+     margin-top: 12px;
+ }
+
+ .first-link {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 22px;
+    text-align: center;
+    letter-spacing: -0.41px;
+    color: #007AFF;
+    display: block;
+    margin-top: 17px;
+    margin-right: 16px;
+    text-align: right;
+ }
+
+ button {
+    border-radius: 10px;
+    display: block;
+    background-color: #0F0F0F;
+    width: 343px;
+    height: 48px;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 22px;
+    text-align: center;
+    letter-spacing: -0.41px;
+    color: #FFFFFF;
+    text-shadow: 0px 4px 4px 0px;
+ }
+
+.second-link {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 18,50px;
+    color: #7D7D7D;
+    margin-top: 204px;
+    display: block;
+    margin-left: 75px;
+    margin-right: 75px;
+
+}
+
+.sign-up {
+    color: #007AFF;
+}
